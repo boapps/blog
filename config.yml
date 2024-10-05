@@ -8,6 +8,11 @@ languageCode: hu
 
 canonifyurls: true
 
+outputs:
+  posts:
+  - html
+  - rss
+
 pygmentsUseClasses: true
 
 markup:
