@@ -37,6 +37,4 @@ params:
   govuk: false
   logo: none
   product: "boapps"
-  builtby: boa
-  builtbyurl: https://boapps.hu/
 
