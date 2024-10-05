@@ -1,5 +1,5 @@
 baseURL: 'https://boapps.hu/'
-copyright: "CC0"
+copyright: "Minden tartalom CC0 licensz alatt érhető el, kivéve, ha másképp van jelezve."
 title: 'boa személyes oldala'
 theme: 'govukhugo'
 paginate: 5
