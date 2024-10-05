@@ -2,17 +2,9 @@ baseURL: 'https://boapps.hu/'
 copyright: "Minden tartalom CC0 licensz alatt érhető el, kivéve, ha másképp van jelezve."
 title: 'boa személyes oldala'
 theme: 'govukhugo'
-paginate: 5
 enableInlineShortcodes: true
 mainSections: ["posts", "joy", "sad"]
-defaultContentLanguage: "hu"
 languageCode: hu
-
-outputs:
-  home:
-    - HTML
-    - RSS
-    - JSON
 
 canonifyurls: true
 
